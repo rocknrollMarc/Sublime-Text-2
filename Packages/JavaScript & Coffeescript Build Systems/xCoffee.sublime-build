@@ -1,0 +1,14 @@
+{
+    "selector": "source.coffee",
+	"cmd": ["coffee", "$file"],
+
+    "variants": [
+        { 
+          "cmd": ["coffee", "-bp", "$file"],
+          "name": "Compile"
+        }
+    ],
+    "windows" : {
+    	"shell": true
+    }
+}

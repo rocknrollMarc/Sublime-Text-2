@@ -1,0 +1,18 @@
+{
+    "enabled": true,
+    "style": "default",
+    "icons": true,
+    "highlight_all": true,
+    "ha_style": "underlined_solid",
+    "icons_all": false,
+    "color_formats": [
+        "white",
+        "#FFF", "#FFFF", "#FFFFFF", "#FFFFFFFF",
+        "rgb(255, 255, 255)",
+        "rgba(255, 255, 255, 1.0)",
+        "hsv(360, 100%, 100%)",
+        "hsva(360, 100%, 100%, 1.0)",
+        "hsl(360, 100%, 100%)",
+        "hsla(360, 100%, 100%, 1.0)"
+    ]
+}

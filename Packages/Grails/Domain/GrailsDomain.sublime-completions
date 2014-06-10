@@ -1,0 +1,85 @@
+{
+    "scope": "source.groovy.grails.domain",
+    "completions": [
+        {
+            "trigger": "afterDelete",
+            "contents": "afterDelete() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "afterInsert",
+            "contents": "afterInsert() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "afterLoad",
+            "contents": "afterLoad() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "afterUpdate",
+            "contents": "afterUpdate() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "beforeDelete",
+            "contents": "beforeDelete() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "beforeInsert",
+            "contents": "beforeInsert() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "beforeLoad",
+            "contents": "beforeLoad() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "beforeUpdate",
+            "contents": "beforeUpdate() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "beforeValidate",
+            "contents": "beforeValidate() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "belongsTo",
+            "contents": "static belongsTo = [${1:name}: ${2:Type}]"
+        },
+        {
+            "trigger": "constraints",
+            "contents": "static constraints = {\n\t${1:property} ${2:constraint}: ${3:value}\n}"
+        },
+        {
+            "trigger": "embedded",
+            "contents": "static embedded = ['${1:propertyName}']"
+        },
+        {
+            "trigger": "fetchMode",
+            "contents": "static fetchMode = [${1:name}: '${2:eager}']"
+        },
+        {
+            "trigger": "hasMany",
+            "contents": "static hasMany = [${1:name}: ${2:Type}]"
+        },
+        {
+            "trigger": "hasOne",
+            "contents": "static hasOne = [${1:name}: ${2:Type}]"
+        },
+        {
+            "trigger": "mappedBy",
+            "contents": "static mappedBy = [${1:name}: ${2:Type}]"
+        },
+        {
+            "trigger": "mapping",
+            "contents": "static mapping = {\n\t${1:property}\n}"
+        },
+        {
+            "trigger": "namedQueries",
+            "contents": "static namedQueries = {\n\t${1:query}\n}"
+        },
+        {
+            "trigger": "onLoad",
+            "contents": "onLoad() {\n\t${1:event}\n}"
+        },
+        {
+            "trigger": "transients",
+            "contents": "static transients = ['${1:propertyName}']"
+        }
+    ]
+}

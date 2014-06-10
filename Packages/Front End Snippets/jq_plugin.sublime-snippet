@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+var ${1:NAME} = function (element, options) {
+  this.$element      = $(element);
+  this.options       = $.extend({}, ${1}.DEFAULTS, options)
+
+  if (this.options.toggle) this.toggle()
+}
+
+  ${1}.DEFAULTS = {}
+
+  ${1}.prototype.doSomething = function () {
+    //this.$element;
+    return true;
+  }
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>_$plugin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger 
+	<scope>source.html</scope>
+    -->
+</snippet>

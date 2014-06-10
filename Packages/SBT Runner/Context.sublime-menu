@@ -1,0 +1,15 @@
+[
+  { "caption": "-" },
+  {
+    "caption": "SBTRunner",
+    "children":
+      [
+        { "caption": "SBT test-only", "command": "sbt_test" },
+        { "caption": "SBT run-main", "command": "sbt_run" },
+        { "caption": "-" },
+        { "caption": "SBT compile", "command": "sbt_compile" },
+        { "caption": "SBT clean", "command": "sbt_clean" },
+        { "caption": "SBT update", "command": "sbt_update"}
+      ]
+  }
+]

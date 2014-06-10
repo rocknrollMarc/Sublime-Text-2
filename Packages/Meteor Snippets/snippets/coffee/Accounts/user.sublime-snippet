@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.user()
+]]></content>
+	<tabTrigger>Meteor.user</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>Meteor.user()</description>
+</snippet>

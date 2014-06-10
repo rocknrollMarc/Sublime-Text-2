@@ -1,0 +1,14 @@
+{
+    "selector": "source.js",
+	"cmd": ["node", "$file"],
+
+    "variants": [
+        { 
+          "cmd": ["js2coffee", "-i2", "$file"],
+          "name": "Compile"
+        }
+    ],
+    "windows" : {
+    	"shell": true
+    }
+}

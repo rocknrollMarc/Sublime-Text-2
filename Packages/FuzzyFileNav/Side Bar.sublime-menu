@@ -1,0 +1,23 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "Fuzzy Nav Here...",
+        "command": "fuzzy_start_from_file",
+        "args": {"paths": []}
+    },
+    {
+        "caption": "Fuzzy File Nav",
+        "children":
+        [
+            {
+                "caption": "Fuzzy Nav",
+                "command": "fuzzy_file_nav"
+            },
+            {
+                "caption": "Fuzzy BookMarks",
+                "command": "fuzzy_bookmarks_load"
+            }
+        ]
+    },
+    { "caption": "-" }
+]

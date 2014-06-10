@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+shift+t"], "command": "sbt_test", 
+		"context" : [{"key": "selector", "operator": "equal", "operand": "source.scala", "match_all": true}]},
+	{ "keys": ["ctrl+shift+r"], "command": "sbt_run", 
+		"context" : [{"key": "selector", "operator": "equal", "operand": "source.scala", "match_all": true}]}
+]

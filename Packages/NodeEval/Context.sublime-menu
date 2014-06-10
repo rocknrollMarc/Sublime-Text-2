@@ -1,0 +1,13 @@
+[{
+  "id": "nodeevalcontext",
+  "caption": "NodeEval",
+  "command": "node_eval",
+  "args": {}
+},{
+    "id": "nodeevalcontext",
+    "caption": "NodeEval - Continuous (Toggle)",
+    "command": "node_eval", 
+    "args": {
+      "continuous":true
+    }
+}]

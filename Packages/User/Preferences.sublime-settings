@@ -1,0 +1,41 @@
+{
+	"class": "tab_label",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"fg":
+	[
+		245,
+		100,
+		90
+	],
+	"font_face": "Menlo",
+	"font_size": 18.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeSBT",
+		"View In Browser"
+	],
+	"parents":
+	[
+		{
+			"attributes":
+			[
+				"dirty"
+			],
+			"class": "tab_control"
+		}
+	],
+	"settings":
+	[
+		"highlight_modified_tabs"
+	],
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"tab_height": 40,
+	"theme": "Sodarized Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}

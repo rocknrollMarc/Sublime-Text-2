@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Meteor.isServer
+]]></content>
+	<tabTrigger>Meteor.isServer</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>Meteor.isServer</description>
+</snippet>

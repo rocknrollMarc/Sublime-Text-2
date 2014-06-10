@@ -1,0 +1,317 @@
+{
+	"folder_history":
+	[
+		"/Users/marc.bluemner/workspace/node/coffeescript-in-action",
+		"/Users/marc.bluemner/workspace/node/NodeBDD",
+		"/Users/marc.bluemner/workspace/node/ikiez5",
+		"/Users/marc.bluemner/workspace/node/ikiezNode/ikiez",
+		"/Users/marc.bluemner/workspace/node/iKiez",
+		"/Users/marc.bluemner/workspace/node/getting-MEAN/getting-MEAN",
+		"/Users/marc.bluemner/workspace/node/iKiez/app_server",
+		"/Users/marc.bluemner/workspace/play/Mongo",
+		"/Users/marc.bluemner/workspace/play/vitra/reactivemongo-demo-app",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/simple-crud-scala-play-mongo-angular",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/play-angularjs",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/angularPlayRequireBootstrapg8Template",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/play-angular-social-auth",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/angular-tutorial",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/play-angular-demos",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/angular-seed-play",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/play-angular-require-seed",
+		"/Users/marc.bluemner/workspace/play/shopVitra",
+		"/Users/marc.bluemner/workspace/play/vitra/vitraAngularjsShopScala",
+		"/Users/marc.bluemner/workspace/play/vitra/VitraShop",
+		"/Users/marc.bluemner/workspace/play/AngularjsPlay/playAngularjsShop",
+		"/Users/marc.bluemner/workspace/play/AngularPlayShop",
+		"/Users/marc.bluemner/hello-play-java",
+		"/Users/marc.bluemner/hello-play",
+		"/Users/marc.bluemner/workspace/play/playconf",
+		"/Users/marc.bluemner/play/PlayAndAngularRest",
+		"/Users/marc.bluemner/workspace/play/play-starter-java",
+		"/Users/marc.bluemner/workspace/play/play-starter-scala",
+		"/Users/marc.bluemner/workspace/play/MSP/play-angular-require-seed",
+		"/Users/marc.bluemner/workspace/play/MSP/vitraShop",
+		"/Users/marc.bluemner/workspace/play/crud",
+		"/Users/marc.bluemner/workspace/scala/sbt",
+		"/Users/marc.bluemner/workspace/play/MSP/PlayBasics/Angular",
+		"/Users/marc.bluemner/workspace/play/MSP/uppgifter/webshop-V3",
+		"/Users/marc.bluemner/workspace/play/auto-persons",
+		"/Users/marc.bluemner/workspace/play/play-jbook",
+		"/Users/marc.bluemner/workspace/play/play-sbook",
+		"/Users/marc.bluemner/Library"
+	],
+	"last_window_id": 65,
+	"settings":
+	{
+		"new_window_height": 799.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"call",
+						"callback"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"err",
+						"error	.error()"
+					],
+					[
+						"conn",
+						"connection"
+					],
+					[
+						"db",
+						"dbURI"
+					],
+					[
+						"exp",
+						"express"
+					],
+					[
+						"sh",
+						"shoppingCart"
+					],
+					[
+						"n",
+						"now"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"u",
+						"util	package"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"node",
+						"SublimeREPL: Node"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"sp",
+						"Spotify: Play"
+					],
+					[
+						"git",
+						"Git: Open..."
+					],
+					[
+						"term",
+						"Open in terminal"
+					],
+					[
+						"play",
+						"Set Syntax: Play Scala Template (HTML)"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":s",
+						":w - Save"
+					],
+					[
+						"",
+						"AngularJS: Look Up Definition"
+					],
+					[
+						"open ",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"color",
+						"Java: Open Javadoc for Class Under Cursor"
+					],
+					[
+						"soda",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 696.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/marc.bluemner/workspace/play/AngularjsPlay/simple-crud-scala-play-mongo-angular/app/crud1/models/User.scala",
+				"/Users/marc.bluemner/workspace/play/MSP/vitraShop/public/js/services.js",
+				"/Users/marc.bluemner/Learning Play! Framework 2/play2-book-chapters-play2.1/chap4/play-jbook/app/assets/stylesheets/book.less",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/assets/stylesheets/book.less",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/assets/stylesheets/book.less",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/assets/stylesheets/book-utils.less",
+				"/Users/marc.bluemner/Learning Play! Framework 2/play2-book-chapters-play2.1/chap4/play-jbook/app/assets/stylesheets/book-utils.less",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/controllers/Application.java",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/models/Chat.java",
+				"/Users/marc.bluemner/workspace/play/play-jbook/build.sbt",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/views/listContainer.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/views/listContainer.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/views/index.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/views/index.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/models/Item.java",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/views/~:workspace:play:jbook:app:models:Item.java",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/models/Item.java",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/models/Item.scala",
+				"/Users/marc.bluemner/workspace/play/play-jbook/app/views/ListItem.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/views/ListItem.scala.html",
+				"/Users/marc.bluemner/workspace/play/play-jbook/project/plugins.sbt",
+				"/Users/marc.bluemner/Library/Application Support/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+				"/Users/marc.bluemner/Library/Application Support/Sublime Text 2/Packages/User/AdvancedNewFile.sublime-settings",
+				"/Users/marc.bluemner/workspace/play/play-sbook/app/controllers/Application.scala",
+				"/Users/marc.bluemner/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/marc.bluemner/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/marc.bluemner/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"jade"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.sbt":
+			{
+				"height": 0.0
+			},
+			"output.sbt_error":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1436.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
