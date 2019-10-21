@@ -4,6 +4,6 @@
   "description": "NPM Support file for the Sublime Text 2 Nodejs Plugin",
   "dependencies": {
     "commander": "1.0.4",
-    "uglify-js": "1.1.1"
+    "uglify-js": "3.6.3"
   }
 }
